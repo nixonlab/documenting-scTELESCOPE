@@ -47,6 +47,7 @@
 - Multimapping parameter (play with it, e.g. 200, 100, etc, does it saturate?)
 - Reference genome
   - no ALTs (we would count e.g. one HERV as different HERVs if i's in the intron of e.g. an MHC gene and it's got multiple ALTs
+  - Check [this post](https://www.biostars.org/p/342482/) in Biostars about human reference genome 
 
 - How should we parse the barcodes for TELESCOPE?
 
