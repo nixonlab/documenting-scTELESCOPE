@@ -6,7 +6,7 @@ Take a look at them, some are really short!
 
 ## Documentation tools ##
 
-- [Mastring markdown](https://guides.github.com/features/mastering-markdown/)
+- [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 - [Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html) is a documentation generator that has many features for writing technical documentation. You've probably seen software or bioinformatics tools documentation hosted in [read the docs](https://readthedocs.org/). Sphinx is how you create it.
 
 ## Modern coding practices ##
