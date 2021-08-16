@@ -6,7 +6,7 @@ The author is [Wanqing Shao](https://scholar.google.co.uk/citations?hl=en&user=c
 
 
 - [Introduction](#Introduction)
-- Results: Technical aspects
+- Results: [Technical aspects](#Technical Aspects)
   - A higher percentage of reads are mapped to TEs in scRNA-seq compared with bulk RNA-seq 
   - Counting scRNA-seq reads at individual TEs leads to large numbers of false positive candidates
 - Results: Their proposal
@@ -50,6 +50,5 @@ In single cell data:
 
 ## Results ##
 
-### Technical aspects ###
-
-
+### Technical-Aspects ###
+	
