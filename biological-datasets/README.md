@@ -10,5 +10,10 @@
 
 - [1k PBMCs from a Healthy Donor (v3 chemistry)](https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_1k_v3)
 
-- 
+- [Integrated single cell and bulk gene expression and ATAC-seq reveals heterogeneity and early changes in pathways associated with resistance to cetuximab in HNSCC sensitive cell lines (scRNA-Seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137524)
+
+- [AP-2alpha-mediated activation of E2F and EZH2 drives melanoma metastasis](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162362)
+
+- [Single-nucleus cross-tissue molecular reference maps to decipher disease gene function](https://www.biorxiv.org/content/10.1101/2021.07.19.452954v1.full)
+
 
