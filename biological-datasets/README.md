@@ -16,4 +16,14 @@
 
 - [Single-nucleus cross-tissue molecular reference maps to decipher disease gene function](https://www.biorxiv.org/content/10.1101/2021.07.19.452954v1.full)
 
+- [Systematic comparison of high-throughput single-cell RNA-seq methods for immune cell profiling](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE163793) (a mixture of cells, but it contains mouse)
+
+- [Single-cell analysis of germinal-center B cells informs on lymphoma cell of origin and outcome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537389/). 
+  - [Transcriptional profiles of human mature B cells from tonsil tissue](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139833)
+  - [Single-cell transcriptomic analysis of human germinal center B cells](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139891)
+
+- [Landscape of stimulation-responsive chromatin across diverse human immune cells](https://www.nature.com/articles/s41588-019-0505-9#data-availability)
+
+
+- [Single-cell multi-omics analysis of the immune response in COVID-19](https://www.nature.com/articles/s41591-021-01329-2#data-availability). IS the raw data available?. In this work they use azimuth(mapping to a reference)
 
