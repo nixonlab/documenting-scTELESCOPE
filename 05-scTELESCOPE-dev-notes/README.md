@@ -2,11 +2,7 @@
 ## Goals ##
 
 - Quantification of transposable elements expression
-
-
-## Other works quantifying TEs in sc data ##
-
-
+- Bring attention to the fact that people are missing part of the transcriptome (!)
 
 ## Desirable characteristics and Considerations ##
 
@@ -28,6 +24,8 @@
   - BAM with multi-mapping reads
 
 - Can we use ATAC-seq or CITE-seq single-cell data?
+- Explore aligning to a reference transcriptome.
+  - [Azimuth](https://satijalab.org/azimuth/) ("App for reference-based single-cell analysis"). The [references](https://azimuth.hubmapconsortium.org/) are (Human) PBMC, Motor Cortex, Pancreas, Fetal Development, Lung, Kidney.
 
 - The dropout problem in scRNA-seq data
   - How is it a factor for TEs?
