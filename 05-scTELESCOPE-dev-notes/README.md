@@ -8,16 +8,17 @@
 
 - Must be easy to perform the analysis (anyone can use it)
   - Portability
-- Can be installed with Bioconda
-- It's command line in the surface but snakemake underneath
+- Can be installed with [Bioconda](https://bioconda.github.io/user/install.html)
+- It's command line in the surface but [snakemake](https://snakemake.readthedocs.io/en/stable/) underneath.
+  - [Improved workflows-as-applications](http://ivory.idyll.org/blog/2020-improved-workflows-as-applications.html): tips and tricks for building applications on top of snakemake
+
 - We should aim to use scTELESCOPE on any data (from any pipeline). Consider that the single-cell world is changing fast.
   - 10x
   - smart-seq
   - seq-well
-- What is the next tool downstream of scTELESCOPE? (which should be the output format?)
-  - Seurat (how do we tell Seurat about our HERVs?)
 
-- Importance of annotation. In the Wang paper they use de novo assembly; is this data correct? how is the annotation affecting quantification?
+- What is the next tool downstream of scTELESCOPE? (which should be the output format?)
+  - [Seurat](https://satijalab.org/seurat/articles/get_started.html) (i.e. how do we tell Seurat about our HERVs?)
 
 - Should we aim to have the option of running scTELESCOPE starting at different points? i.e.
   - sequencing reads
@@ -26,6 +27,7 @@
 - Can we use ATAC-seq or CITE-seq single-cell data?
 - Explore aligning to a reference transcriptome.
   - [Azimuth](https://satijalab.org/azimuth/) ("App for reference-based single-cell analysis"). The [references](https://azimuth.hubmapconsortium.org/) are (Human) PBMC, Motor Cortex, Pancreas, Fetal Development, Lung, Kidney.
+  - Importance of annotation. In the [Wang paper](https://genome.cshlp.org/content/early/2020/12/21/gr.265173.120.abstract) they use de novo assembly; is this data correct? how is the annotation affecting quantification?
 
 - The dropout problem in scRNA-seq data
   - How is it a factor for TEs?
