@@ -8,9 +8,9 @@
 - [1k PBMCs from a Healthy Donor (v3 chemistry)](https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_1k_v3)
 
 
-## Other papers with biologically-interesting data ##
+## Papers with biologically-interesting data ##
 
-- GTEx samples but now there's single-cell RNA-seq data: [Single-nucleus cross-tissue molecular reference maps to decipher disease gene function](https://www.biorxiv.org/content/10.1101/2021.07.19.452954v1.full)
+- GTEx samples but now there's single-cell RNA-seq data: [Single-nucleus cross-tissue molecular reference maps to decipher disease gene function](https://www.biorxiv.org/content/10.1101/2021.07.19.452954v1.full). This could be the equivalent of the ENCODE data that was analyzed in the original TELESCOPE paper
 
 - [Single-cell analysis of germinal-center B cells informs on lymphoma cell of origin and outcome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537389/). 
   - [Transcriptional profiles of human mature B cells from tonsil tissue](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139833)
