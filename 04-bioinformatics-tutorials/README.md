@@ -19,6 +19,18 @@ Take a look at them, some are really short!
 
 Now, Git is really helpful to work as a team in coding projects because many people can work simultaneously on the same things. Meaning, we can use something like [GitHub](https://github.com), which is an internet service that hosts git repositories, to store our projects and work on them.
 
+
+- Workflow management is a way to code analysis pipelines with order and reproducibility. See [this review](https://academic.oup.com/bib/article/18/3/530/2562749) if you're like really interested. 
+
+- Focus on snakemake. [Here's](https://vincebuffalo.com/blog/2020/03/04/understanding-snakemake.html) a good explanation/tutorial of what it is and what it does.
+  - Snakemake is software that's python-based and it lets you do build automation. "Its implicit intention is to automate command line data processing tasks, such as those common in bioinformatics"
+  - It's inspired in MAKE. A software tool and language from 1976 that takes advantage of a simple idea: **If we declare what files depende on other files, we only need to run the steps downstream of the files that have changed**. Therefore, the rules are only run if (1) the input files changed, (2) the target of the rule does not exist and needs to be created.
+  - Basically you declare what needs to be done (rules), and make/snakemake execute things in the right order.
+  - There are many snakemake functions, but start with the very basic things. [This tutorial](https://slides.com/johanneskoester/snakemake-tutorial) (made by the person who develops snakemake) is useful because it starts simple, and describes everything about snakemake. 
+
+  
+
+
 ## single-cell analysis DOWNSTREAM of scTELESCOPE ##  
 
 We want people to actually use scTELESCOPE and that means we need to consider "what do people do with single-cell RNA-seq data?"
