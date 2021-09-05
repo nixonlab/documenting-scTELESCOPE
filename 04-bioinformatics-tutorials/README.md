@@ -4,6 +4,11 @@ This is a set of useful tutorials and resources to check out and/or work on befo
 
 Take a look at them, some are really short!
 
+## Single-Cell RNA-sequencing  ##
+
+- There is a paper called ["Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data"](https://www.nature.com/articles/s41596-020-00409-w), it was born from a course-tutorial, which is available [here](https://www.singlecellcourse.org/introduction-to-single-cell-rna-seq.html). It includes basic information about single-cell protocols and a brief description of what to do with the raw data, because it's mostly focused on downstream analysis.
+
+
 ## Documentation tools ##
 
 - [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
