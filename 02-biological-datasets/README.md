@@ -1,5 +1,11 @@
 # Single-Cell RNA-seq Datasets #
 
+This is a list of papers and datasets that are interesting. We will select datasets to analyse depending on our goals and those will be described in a dedicated spreadsheet.
+
+## Collections of datasets ##
+
+- [HCA Project Catalogue](https://www.ebi.ac.uk/humancellatlas/project-catalogue/)."A comprehensive list of cellular resolution datasets for the Human Cell Atlas"
+
 
 ## 10x genomics datasets ##
 
