@@ -15,7 +15,6 @@
 - We should aim to use scTELESCOPE on any data (from any pipeline). Consider that the single-cell world is changing fast.
   - 10x
   - smart-seq
-  - seq-well
 
 - What is the next tool downstream of scTELESCOPE? (which should be the output format?)
   - [Seurat](https://satijalab.org/seurat/articles/get_started.html) (i.e. how do we tell Seurat about our HERVs?)
@@ -43,8 +42,12 @@
   - Get BAMs from single-cell data
   - Parallel run of TELESCOPE on each
 - Is it posisble to run TELESCOPE on a multi-cell BAM?
-- Are single cell RNA-seq reads always in **one** side of the PE sequencing (i.e. in one single read)? 
-- Multimapping parameter (play with it, e.g. 200, 100, etc, does it saturate?)
+- Are single cell RNA-seq reads always in **one** side of the PE sequencing (i.e. in one single read)?
+    - "reads are paired because they reference the same "lecture" of the transcript but each file contains different info. R1 files contain both cell and UMI barcodes, and R2 contains the cDNA read of the transcript (And index files the sample barcode, although in most cases when analysing data from repositories it tends to come demultiplexed already so it's not needed). In the Human cell atlas we've considered it single-end because of this, but there is no consensus amongst the different archives/single cell services." From Enrique Sapena Ventura (a Data wrangler from HCA).
+    - "there are so many techniques that stating that it will always be the case is probably lying. I can say that, for what I've seen, that the vast majority of data is like this, but there are actually paired end techniques (the only one coming to mind right now is scATAC-Seq, although that is technically not transcriptomics)" From Enrique Sapena Ventura (a Data wrangler from HCA).
+
+ 
+- Multimapping parameter (e.g. 200, 100, etc, does it saturate?)
 - Reference genome
   - no ALTs (we would count e.g. one HERV as different HERVs if i's in the intron of e.g. an MHC gene and it's got multiple ALTs
   - Check [this post](https://www.biostars.org/p/342482/) in Biostars about human reference genome 
