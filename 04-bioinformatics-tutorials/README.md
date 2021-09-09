@@ -6,6 +6,8 @@ Take a look at them, some are really short!
 
 ## Single-Cell RNA-sequencing  ##
 
+- [This video](https://www.youtube.com/watch?v=k9VFNLLQP8c) is a nice and simple introduction to the two main paradigms in single-cell sequencing.
+
 - [A collection of Single-Cell genomics library structure](https://github.com/Teichlab/scg_lib_structs)
 
 - There is a paper called ["Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data"](https://www.nature.com/articles/s41596-020-00409-w), it was born from a course-tutorial, which is available [here](https://www.singlecellcourse.org/introduction-to-single-cell-rna-seq.html). It includes basic information about single-cell protocols and a brief description of what to do with the raw data, because it's mostly focused on downstream analysis.
