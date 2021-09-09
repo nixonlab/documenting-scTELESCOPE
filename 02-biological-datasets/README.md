@@ -6,6 +6,7 @@ This is a list of papers and datasets that are interesting. We will select datas
 
 - [HCA Project Catalogue](https://www.ebi.ac.uk/humancellatlas/project-catalogue/)."A comprehensive list of cellular resolution datasets for the Human Cell Atlas"
 
+- [A Collection of single-cell datasets](https://docs.google.com/spreadsheets/d/1rm5NZQjE-9rZ2YmK_HwjW-LgvFTTLs7Q6MzHbhPftRE/edit?usp=sharing)
 
 ## 10x genomics datasets ##
 
