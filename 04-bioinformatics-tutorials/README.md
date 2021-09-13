@@ -59,6 +59,7 @@ Well, after aligning reads to the genome, peple use [Seurat](https://satijalab.o
 So check out [Getting started with Seurat](https://satijalab.org/seurat/articles/get_started.html).
 
 
+Check out [this video](https://youtu.be/QaqBzilH5LE?t=705) of Dana Pe'er explaining the challenges of single-cell data computational analysis.
 
 
 
